@@ -4,11 +4,6 @@ Este proyecto continúa la **Entrega 4** del curso de Python. Conserva los mismo
 las búsquedas, los filtros y las validaciones, pero ahora cada parte del programa
 está ubicada en un módulo diferente.
 
-## Requisitos
-
-- Tener Python 3 instalado.
-- No se necesitan librerías externas.
-
 ## Cómo ejecutar
 
 1. Descargá y descomprimí el proyecto.
@@ -55,15 +50,3 @@ blog_consola/
 
 El post de **id 6** está incompleto a propósito: no tiene la clave `contenido`.
 Esto permite comprobar la validación de la opción 4, tal como en la Entrega 4.
-
-## Entrega en GitHub
-
-1. Creá un repositorio **público** en GitHub, por ejemplo `blog-consola-entrega-5`.
-2. Usá **Add file > Upload files** en GitHub para cargar `main.py`, `README.md`
-   y la carpeta `blog` con sus archivos, directamente en la raíz del repositorio.
-3. Confirmá con **Commit changes**.
-4. Abrí el repositorio y verificá que `main.py` y `README.md` aparezcan en la raíz
-   y que la carpeta `blog/` contenga sus cinco archivos.
-5. Compartí en el curso el enlace público de ese repositorio.
-
-No hace falta subir los archivos de las entregas anteriores al mismo repositorio.
